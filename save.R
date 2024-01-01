@@ -5,5 +5,5 @@ Laptop adding stuff here
 
 Here is the last part
 
-desktop adding stuff here
+desktop adding stuff here.
 nn
