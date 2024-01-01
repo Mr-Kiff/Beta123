@@ -1,3 +1,7 @@
 Here is my first line of code
 here is my 2nd
+<<<<<<< HEAD
 here is my 3rd
+
+here is my 4th
+
